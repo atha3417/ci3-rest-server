@@ -1,0 +1,13 @@
+{
+	"name": "atha/ci-rest-server",
+    "description": "Just a simple rest-server",
+    "keywords": ["ci", "codeigniter", "javascript", "json", "api", "rest-server"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
